@@ -4,11 +4,11 @@
 
 cd /drone/src/work/
 # Clone tree START
-git clone https://github.com/henloscape/omni_device_xiaomi_lava device/xiaomi/lava/
+https://github.com/henloscape/recovery_device_xiaomi_miatoll device/xiaomi/miatoll
 # CLONE TREE END
 
 # VARIABLES, DEFINE THEM ELSE YOU'RE GAY
-DEVICE=lava
+DEVICE=miatoll
 TARGET=recoveryimage
 # END VARIABLES
 
